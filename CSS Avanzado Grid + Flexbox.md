@@ -26,7 +26,7 @@ El flex container(El padre) tiene dos opciones en su display:
 
 1. `display: flex`. Se comporta como un elemento de bloque.
 
-   ![image-20200606154539197](img\image-20200606154539197.png?raw=true)
+   ![image-20200606154539197](image-20200606152322447.png)
 
 2. `display: inline-flex`. Se comporta como un elemento de linea.
 
