@@ -242,8 +242,6 @@ Flex-grow Indica el factor de crecimiento.
   
   - Numero positivos(enteros o decimales). Por defecto es 0.
   
-    ![Flexbox-Flex Basis & Flex Grow - codeburst](https://miro.medium.com/max/3752/1*43faUXdI5KbcSb_LbXO-Ng.png)
-
 ##### **1.3.3.2 flex-shrink**
 
 Flex-shrink Indica el factor de reducción.
