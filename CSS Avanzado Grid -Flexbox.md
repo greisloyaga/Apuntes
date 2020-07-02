@@ -54,9 +54,6 @@ Flex-direction nos permite especificar la dirección y el sentido del eje princi
   ```css
   flex-direction: value;
   ```
-
-  ![img](https://miro.medium.com/max/529/1*p9RKQ08zFMn01OOUkPoa1g.png)
-
 - Valores posibles
   
 - row (Predeterminado)
