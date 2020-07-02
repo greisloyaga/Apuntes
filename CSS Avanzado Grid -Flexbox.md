@@ -296,7 +296,7 @@ Define el **tamaño inicial en el eje principal** puede ser width o height depen
 
 - Nos permite colocar un elemento en la parte que deseemos. Sin importar el flujo del HTML.
 - Se parece un poco a un *z-index*. Por defecto todos los elemento tienen un order:0.
-- **Sintaxis**: `order: value`=
+- **Sintaxis**: `order: value`
 - Valores posibles:
   - Cualquier numero entero.
 
