@@ -15,10 +15,10 @@
      - `git add .`: Agregar todos los archivos de la carpeta actual donde estoy 
 
   2. **Área de preparación(stage area)**
-     - Deshacer los últimos cambios ponemos  `git checkout -nombre del archivo`  `git checkout -f`
-     - Ver cambios realizados en cada archivo `git diff styles/global.css` , antes de hacer commit
-     -  `git restore --staged NOMBRE_ARCHIVO`: Quitar archivos del área de preparación
-     -  `git commit -m "MENSAJE"` : Pasar los archivos del área de preparación al repositorio 
+     - `git checkout -nombre del archivo`  `git checkout -f` : Deshacer los últimos cambios
+     - `git diff styles/global.css` : ver cambios realizados en cada archivo ,antes de hacer commit
+     - `git restore --staged NOMBRE_ARCHIVO`: Quitar archivos del área de preparación
+     - `git commit -m "MENSAJE"` : Pasar los archivos del área de preparación al repositorio 
      - `git commit -am "MENSAJE"`: En un solo paso todos los **archivos modificados** van a pasar al área de preparación ya al repositorio
 
   3. Repositorio (carpeta .git) (git directory - repository)**
