@@ -20,8 +20,6 @@ Css(cascade style sheets) es un lenguaje de estilos. Se encarga de escribir el r
 
   -  Bloque: o bloque de declaración que esta entre llaves, cada linea es una declaración, cada declaración tiene una propiedad y su valor
 
-    <img src="https://edteam-media.s3.amazonaws.com/community/original/2b459054-9ca1-4731-9786-2e92d810c824.jpg" alt="Conoces la sintaxis de CSS? | EDteam" style="zoom: 25%;" />
-
 ###  **1.3. Variables**
 
 Una variable es un lugar donde almacenas un valor par poder reutilizarlo
