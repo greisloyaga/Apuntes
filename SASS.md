@@ -1,6 +1,6 @@
 # **SASS**
 
-## 1. Sintaxis**
+## **1. Sintaxis**
 
 ### **1.1. ¿Qué es Sass?**
 
